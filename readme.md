@@ -3,7 +3,7 @@
 - ADSP 시험내용 중 데이터분석(통계분석, 정형 데이터 마이닝 등)의 이론과 실습 내용을 다루었음
 - 강의 내용은 유튜브 동영상으로 제공
 
-#### 참고문헌
+## 참고문헌
 - [Image_Linear_Representation](https://www.youtube.com/watch?v=7Gtxd-ew4lk)
 - 선형대수와 이미지 행렬 변환의 종류 Image_representation.ipynb
   ![](https://www.mlsysbook.ai/contents/core/dnn_architectures/dnn_architectures_files/mediabag/5aab87381f560ddc7f720233b9e89a654d299fa1.svg)
