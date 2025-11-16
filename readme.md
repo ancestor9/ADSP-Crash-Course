@@ -1,6 +1,7 @@
-## 데이터분석 준전문가(ADsP : Advanced Data Analytics Semi-Professional)란 데이터 이해에 대한 기본지식을 바탕으로 데이터분석 기획 및 데이터분석 등의 직무를 수행하는 실무자
-### ADSP 시험내용 중 데이터분석(통계분석, 정형 데이터 마이닝 등)의 이론과 실습 내용을 다루었음
-### 강의 내용은 유튜브 동영상을 제공
+## 데이터분석 준전문가(ADsP : Advanced Data Analytics Semi-Professional) 자격증 취득
+- 데이터 이해에 대한 기본지식을 바탕으로 데이터분석 기획 및 데이터분석 등의 직무를 수행하는 실무자
+- ADSP 시험내용 중 데이터분석(통계분석, 정형 데이터 마이닝 등)의 이론과 실습 내용을 다루었음
+- 강의 내용은 유튜브 동영상으로 제공
 
 #### 참고문헌
 - [Image_Linear_Representation](https://www.youtube.com/watch?v=7Gtxd-ew4lk)
