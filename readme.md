@@ -12,7 +12,7 @@
 | 05 | 앙상블(Ensemble)| [random-forest](https://mlu-explain.github.io/random-forest/),  Bagging, Random Forest, Boosting: AdaBoost, GBM, XGBoost, Voting/Stacking |
 | 06 | 손실함수(Loss Function), 최적화(Optimization) | [교차검증](https://mlu-explain.github.io/cross-validation/), 하이퍼파라미터 튜닝 |
 | 07 | 예측 모형 평가지표 1 | 혼동 행렬(Confusion Matrix), 정확도(Accuracy), 정밀도(Precision), 재현율(Recall)의 개념 구분 (시험 빈출), F1-Score 및 기타 지표의 활용 |  |
-| 08 | 예측 모형 평가지표 2 | ROC 곡선, AUROC(AUC) 값(모형 성능 비교), 평가지표 계산 공식 대입 실습 (Confusion Matrix 기반), 적절한 평가 지표 선택 기준 (예: 암 진단 vs 스팸 필터)|  |
+| 08 | 예측 모형 평가지표 2 | [ROC](https://mlu-explain.github.io/roc-auc/), AUROC(AUC) 값(모형 성능 비교), 평가지표 계산 공식 대입 실습 (Confusion Matrix 기반), 적절한 평가 지표 선택 기준 (예: 암 진단 vs 스팸 필터)|  |
 | 09 | 군집 분석 (Clustering) | [K-평균 군집(K-Means)](https://github.com/ancestor9/ADSP-Crash-Course/blob/main/Introduction_to_Machine_learning_.ipynb)의 원리와 초기 중심 설정, 계층적 군집(Hierarchical Clustering) (Dendrogram 해석), 군집 평가 지표 (실루엣 계수 등)|  |
 | 10 | 연관 분석 (Association Analysis) | 연관 규칙 분석/장바구니 분석- 지지도(Support), 신뢰도(Confidence), 향상도(Lift) - (시험 빈출 계산 문제)|  |
 | 11 | 딥러닝 기초와 학습 메커니즘 1| 인공 신경망(ANN)의 구조 (퍼셉트론, 다층 신경망), 활성화 함수 (ReLU, Sigmoid, Softmax)의 역할| |
