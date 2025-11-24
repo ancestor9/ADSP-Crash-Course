@@ -5,8 +5,8 @@
 
 | # | 내용 | 참고 자료 |
 |:----:|:-----------|--------|
-| 01 | 회귀(Regression), 회귀계수, [Loss & metrics](https://www.101ai.net/basics/loss-metric), [자료스케일링](https://www.101ai.net/basics/data-scaling) |  [Linear Regression](https://www.101ai.net/basics/linear-regression), [linear-regression](https://mlu-explain.github.io/linear-regression/)  |
-| 02 | 분류(Classification), 분산과 편향 | [k-neighbors-classification](http://vision.stanford.edu/teaching/cs231n-demos/knn/)   |
+| 01 | 회귀(Regression), 회귀계수, [Loss & metrics](https://www.101ai.net/basics/loss-metric), [자료스케일링](https://www.101ai.net/basics/data-scaling) |  [Linear Regression](https://www.101ai.net/basics/linear-regression), [linear-regression](https://mlu-explain.github.io/linear-regression/)  [분산과편향](https://mlu-explain.github.io/bias-variance/)|
+| 02 | 분류(Classification) | [k-neighbors-classification](http://vision.stanford.edu/teaching/cs231n-demos/knn/)   |
 | 03 | 로지스틱회귀(Logistic Regression), 로지스틱회귀 계수 |  [logistic-regression](https://mlu-explain.github.io/logistic-regression/), Odds Ratio, Sigmoid 함수 |
 | 04 | 의사결정나무(Decision Tree) | [decision-tree](https://mlu-explain.github.io/decision-tree/),  Gini Index/Entropy/Information Gain, 과적합 방지를 위한 가지치기(Pruning)|
 | 05 | 앙상블(Ensemble)| [random-forest](https://mlu-explain.github.io/random-forest/),  Bagging, Random Forest, Boosting: AdaBoost, GBM, XGBoost, Voting/Stacking |
