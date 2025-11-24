@@ -6,7 +6,9 @@
 | 동영상 | 내용 | 참고 자료 |
 |:----:|:-----------|--------|
 | 01 | 회귀(Regression), MSE, 분류(Classification), 분산과 편향,  |  [linear-regression](https://mlu-explain.github.io/linear-regression/)  [k-neighbors-classification](http://vision.stanford.edu/teaching/cs231n-demos/knn/) |
-| 01 | 로지스틱회귀(Logistic Regression) |  [logistic-regression](https://mlu-explain.github.io/logistic-regression/) |
+| 02 | Odds, Logit |   |
+| 03 | 로지스틱회귀(Logistic Regression) |  [logistic-regression](https://mlu-explain.github.io/logistic-regression/) |
+
 
 ### 참고문헌
 - [Image_Linear_Representation](https://www.youtube.com/watch?v=7Gtxd-ew4lk)
