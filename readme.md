@@ -11,7 +11,7 @@
 | 04 | 의사결정나무(Decision Tree) | [decision-tree](https://mlu-explain.github.io/decision-tree/),  Gini Index/Entropy/Information Gain, 과적합 방지를 위한 가지치기(Pruning)|
 | 05 | 앙상블(Ensemble)| [random-forest](https://mlu-explain.github.io/random-forest/),  Bagging, Random Forest, Boosting: AdaBoost, GBM, XGBoost, Voting/Stacking |
 | 06 | 손실함수(Loss Function), 최적화(Optimization) | [교차검증](https://mlu-explain.github.io/cross-validation/), 하이퍼파라미터 튜닝 |
-| 07 | 예측 모형 평가지표 1 | 혼동 행렬(Confusion Matrix), 정확도(Accuracy), 정밀도(Precision), 재현율(Recall)의 개념 구분 (시험 빈출), F1-Score 및 기타 지표의 활용 |  |
+| 07 | 예측 모형 평가지표 1 | 혼동 행렬(Confusion Matrix), 정확도(Accuracy), [정밀도(Precision), 재현율(Recall)](https://mlu-explain.github.io/precision-recall/)의 개념 구분 (시험 빈출), F1-Score 및 기타 지표의 활용 |  |
 | 08 | 예측 모형 평가지표 2 | [ROC](https://mlu-explain.github.io/roc-auc/), AUROC(AUC) 값(모형 성능 비교), 평가지표 계산 공식 대입 실습 (Confusion Matrix 기반), 적절한 평가 지표 선택 기준 (예: 암 진단 vs 스팸 필터)|  |
 | 09 | 군집 분석 (Clustering) | [K-평균 군집(K-Means)](https://github.com/ancestor9/ADSP-Crash-Course/blob/main/Introduction_to_Machine_learning_.ipynb)의 원리와 초기 중심 설정, 계층적 군집(Hierarchical Clustering) (Dendrogram 해석), 군집 평가 지표 (실루엣 계수 등)|  |
 | 10 | 연관 분석 (Association Analysis) | 연관 규칙 분석/장바구니 분석- 지지도(Support), 신뢰도(Confidence), 향상도(Lift) - (시험 빈출 계산 문제)|  |
