@@ -3,12 +3,9 @@
 - ADSP 시험내용 중 데이터분석(통계분석, 정형 데이터 마이닝 등)의 이론과 실습 내용을 다루었음
 - 강의 내용은 유튜브 동영상(12분 짜리)으로 제공
 
-### 목차(Contents)
-- 1. 머신러닝이란 무엇인가?
-  2. 머신러인의 종류
-  3. 최적화(Optimization.ipynb)
-  4. 선형과 비선형, 활성화함수, 소프트맥스(Softmax)................
-  
+| 동영상 | 내용 | 참고 자료 |
+|:----:|:-----------|--------|
+| 1주차 | 회귀분석, MSE, 분산과 편향,  |  [linear-regression](https://mlu-explain.github.io/linear-regression/)  |
 
 ### 참고문헌
 - [Image_Linear_Representation](https://www.youtube.com/watch?v=7Gtxd-ew4lk)
