@@ -9,7 +9,7 @@
 | 02 | 분류(Classification) | [k-neighbors-classification](http://vision.stanford.edu/teaching/cs231n-demos/knn/)   |
 | 03 | 로지스틱회귀(Logistic Regression), 로지스틱회귀 계수 |  [logistic-regression](https://mlu-explain.github.io/logistic-regression/), Odds Ratio, Sigmoid 함수 |
 | 04 | 의사결정나무(Decision Tree) | [decision-tree](https://mlu-explain.github.io/decision-tree/),  Gini Index/Entropy/Information Gain, 과적합 방지를 위한 가지치기(Pruning)|
-| 05 | 앙상블(Ensemble)| [random-forest](https://mlu-explain.github.io/random-forest/),  Bagging, Random Forest, Boosting: AdaBoost, GBM, XGBoost, Voting/Stacking |
+| 05 | 앙상블 모델(Ensemble Model)| [random-forest](https://mlu-explain.github.io/random-forest/),  Bagging, Random Forest, Boosting: AdaBoost, GBM, XGBoost, Voting/Stacking |
 | 06 | 손실함수(Loss Function), 최적화(Optimization) | [교차검증](https://mlu-explain.github.io/cross-validation/), 하이퍼파라미터 튜닝 |
 | 07 | 예측 모형 평가지표 1 | 혼동 행렬(Confusion Matrix), 정확도(Accuracy), [정밀도(Precision), 재현율(Recall)](https://mlu-explain.github.io/precision-recall/)의 개념 구분 (시험 빈출), F1-Score 및 기타 지표의 활용 |  |
 | 08 | 예측 모형 평가지표 2 | [ROC](https://mlu-explain.github.io/roc-auc/), AUROC(AUC) 값(모형 성능 비교), 평가지표 계산 공식 대입 실습 (Confusion Matrix 기반), 적절한 평가 지표 선택 기준 (예: 암 진단 vs 스팸 필터)|  |
