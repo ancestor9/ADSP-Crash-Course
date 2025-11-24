@@ -19,11 +19,11 @@
 | 12 | 딥러닝 기초와 학습 메커니즘 2| [손실 함수(Loss Function)](https://www.101ai.net/deeplearn/loss): MSE와 Cross-Entropy, [최적화(Optimization)](https://www.101ai.net/deeplearn/optimizer): 경사하강법(Gradient Descent), [역전파(Backpropagation)](https://www.101ai.net/nnet/backprop)| |
 
 ### 참고문헌
+- [Visual explanations of core machine learning concepts](https://mlu-explain.github.io/)
+- [Master AI Concepts with Interactive Learning!](https://www.101ai.net/overview/basics)
 - [Image_Linear_Representation](https://www.youtube.com/watch?v=7Gtxd-ew4lk)
 - 선형대수와 이미지 행렬 변환의 종류 Image_representation.ipynb
   ![](https://www.mlsysbook.ai/contents/core/dnn_architectures/dnn_architectures_files/mediabag/5aab87381f560ddc7f720233b9e89a654d299fa1.svg)
-- [Master AI Concepts with Interactive Learning!](https://www.101ai.net/overview/basics)
-- [Visual explanations of core machine learning concepts](https://mlu-explain.github.io/)
 - [Google's Machine Learning Crash Course](https://developers.google.com/machine-learning?hl=ko)
 - [K-means_elbow](https://ml-visualized.com/chapter2/k_means.html)
 
