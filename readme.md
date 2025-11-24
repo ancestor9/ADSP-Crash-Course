@@ -3,7 +3,7 @@
 - ADSP 시험내용 중 데이터분석(통계분석, 정형 데이터 마이닝 등)의 이론과 실습 내용을 다루었음
 - 강의 내용은 유튜브 동영상(12분 짜리)으로 제공
 
-| 동영상 | 내용 | 참고 자료 |
+| # | 내용 | 참고 자료 |
 |:----:|:-----------|--------|
 | 01 | 회귀(Regression), 회귀계수, MSE, 분류(Classification), 분산과 편향, 자료스케일링 |  [linear-regression](https://mlu-explain.github.io/linear-regression/)  [k-neighbors-classification](http://vision.stanford.edu/teaching/cs231n-demos/knn/) |
 | 02 | Odds Ratio, Sigmoid 함수 |   |
