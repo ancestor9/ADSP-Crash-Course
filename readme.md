@@ -15,7 +15,7 @@
 | 08 | 예측 모형 평가지표 2 | [ROC](https://mlu-explain.github.io/roc-auc/), AUROC(AUC) 값(모형 성능 비교), 평가지표 계산 공식 대입 실습 (Confusion Matrix 기반), 적절한 평가 지표 선택 기준 (예: 암 진단 vs 스팸 필터)|  |
 | 09 | 군집 분석 (Clustering) | [K-평균 군집(K-Means)](https://github.com/ancestor9/ADSP-Crash-Course/blob/main/Introduction_to_Machine_learning_.ipynb)의 원리와 초기 중심 설정, 계층적 군집(Hierarchical Clustering) (Dendrogram 해석), 군집 평가 지표 (실루엣 계수 등)|  |
 | 10 | 연관 분석 (Association Analysis) | 연관 규칙 분석/장바구니 분석- 지지도(Support), 신뢰도(Confidence), 향상도(Lift) - (시험 빈출 계산 문제)|  |
-| 11 | 딥러닝 기초와 학습 메커니즘 1| 인공 신경망(ANN)의 구조 ([퍼셉트론](https://www.101ai.net/nnet/perceptron), 다층 신경망), 활성화 함수 (ReLU, Sigmoid, Softmax)의 역할| |
+| 11 | 딥러닝 기초와 학습 메커니즘 1| 인공 신경망(ANN)의 구조 ([퍼셉트론](https://www.101ai.net/nnet/perceptron), [다층 신경망](https://www.101ai.net/nnet/multi-layer)), 활성화 함수 (ReLU, Sigmoid, Softmax)의 역할| |
 | 12 | 딥러닝 기초와 학습 메커니즘 2| 손실 함수(Loss Function): MSE와 Cross-Entropy, 최적화(Optimization): 경사하강법(Gradient Descent), [역전파(Backpropagation)](https://www.101ai.net/nnet/backprop)| |
 
 ### 참고문헌
