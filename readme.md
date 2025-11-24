@@ -1,4 +1,4 @@
-## 데이터분석 준전문가(ADsP : Advanced Data Analytics Semi-Professional) 자격증 취득 비교과 과정
+## 데이터분석 준전문가(ADsP : Advanced Data Analytics Semi-Professional) 자격증 취득 과정
 - ADsP : 데이터 이해에 대한 기본지식을 바탕으로 데이터분석 기획 및 데이터분석 등의 직무를 수행하는 실무자
 - 내용 : ADSP 시험내용 중 데이터분석(통계분석, 정형 데이터 마이닝 등)의 문항 수와 기출빈도가 높은 이론과 실습 내용을 다루었음
 - 동영상: 12개의 유튜브 동영상(10분 미만) 총 학습시간 100분
