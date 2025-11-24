@@ -5,7 +5,7 @@
 
 | 동영상 | 내용 | 참고 자료 |
 |:----:|:-----------|--------|
-| 1주차 | 회귀분석, MSE, 분산과 편향,  |  [linear-regression](https://mlu-explain.github.io/linear-regression/)  |
+| 01 | 회귀분석, MSE, 분산과 편향,  |  [linear-regression](https://mlu-explain.github.io/linear-regression/)  |
 
 ### 참고문헌
 - [Image_Linear_Representation](https://www.youtube.com/watch?v=7Gtxd-ew4lk)
