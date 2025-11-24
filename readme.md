@@ -22,7 +22,7 @@
 - [Visual explanations of core machine learning concepts](https://mlu-explain.github.io/)
 - [Master AI Concepts with Interactive Learning!](https://www.101ai.net/overview/basics)
 - [Image_Linear_Representation](https://www.youtube.com/watch?v=7Gtxd-ew4lk)
-- 선형대수와 이미지 행렬 변환의 종류 Image_representation.ipynb
+- [이미지 행렬 변환의 종류_CNN](https://github.com/ancestor9/ADSP-Crash-Course/blob/main/Image_representation.ipynb)
   ![](https://www.mlsysbook.ai/contents/core/dnn_architectures/dnn_architectures_files/mediabag/5aab87381f560ddc7f720233b9e89a654d299fa1.svg)
 - [Google's Machine Learning Crash Course](https://developers.google.com/machine-learning?hl=ko)
 - [K-means_elbow](https://ml-visualized.com/chapter2/k_means.html)
