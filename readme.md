@@ -18,6 +18,7 @@
 | 11 | 딥러닝 모형(Deep Learning Model) -1| 인공 신경망(ANN)의 구조 ([퍼셉트론](https://www.101ai.net/nnet/perceptron), [다층 신경망](https://www.101ai.net/nnet/multi-layer)), 활성화 함수 (ReLU, Sigmoid, Softmax)의 역할| |
 | 12 | 딥러닝 모형(Deep Learning Model) -2| [손실 함수(Loss Function)](https://www.101ai.net/deeplearn/loss): MSE와 Cross-Entropy, [최적화(Optimization)](https://www.101ai.net/deeplearn/optimizer): 경사하강법(Gradient Descent), [역전파(Backpropagation)](https://www.101ai.net/nnet/backprop), [SOM(Self-Organizing Map)](https://github.com/ancestor9/ADSP-Crash-Course/blob/main/SOM.ipynb)| |
 
+
 ### 참고문헌
 - [Visual explanations of core machine learning concepts](https://mlu-explain.github.io/)
 - [Master AI Concepts with Interactive Learning!](https://www.101ai.net/overview/basics)
@@ -26,4 +27,5 @@
   ![](https://www.mlsysbook.ai/contents/core/dnn_architectures/dnn_architectures_files/mediabag/5aab87381f560ddc7f720233b9e89a654d299fa1.svg)
 - [Google's Machine Learning Crash Course](https://developers.google.com/machine-learning?hl=ko)
 - [K-means_elbow](https://ml-visualized.com/chapter2/k_means.html)
+- [Introduction_to_Machine_learning](https://github.com/ancestor9/ADSP-Crash-Course/blob/main/Introduction_to_Machine_learning_.ipynb)
 
