@@ -31,5 +31,5 @@
 - [K-means_elbow](https://ml-visualized.com/chapter2/k_means.html)
 - [Introduction_to_Machine_learning](https://github.com/ancestor9/ADSP-Crash-Course/blob/main/Introduction_to_Machine_learning_.ipynb)
 - [Transformer](https://poloclub.github.io/transformer-explainer/)
-- [CNN](https://poloclub.github.io/cnn-explainer/)
+- [CNN_Convolutional Neural Network ](https://poloclub.github.io/cnn-explainer/)
 
