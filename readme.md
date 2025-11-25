@@ -8,7 +8,7 @@
 | 00 | 머신러닝 소개 | [Introduction_to_Machine_learning](https://github.com/ancestor9/ADSP-Crash-Course/blob/main/Introduction_to_Machine_learning_.ipynb)   |
 | 01 | 회귀 모형(Regression Model)|  [Linear Regression](https://www.101ai.net/basics/linear-regression), [linear-regression](https://mlu-explain.github.io/linear-regression/)  [분산과편향](https://mlu-explain.github.io/bias-variance/), 회귀계수, [Loss & metrics](https://www.101ai.net/basics/loss-metric), [자료스케일링](https://www.101ai.net/basics/data-scaling) |
 | 02 | 분류 모형(Classification Model) | [k-neighbors-classification](http://vision.stanford.edu/teaching/cs231n-demos/knn/)   |
-| 03 | 로지스틱회귀 모형(Logistic Regression Model) |  [logistic-regression](https://mlu-explain.github.io/logistic-regression/), , 로지스틱회귀 계수, [Odds Ratio](https://github.com/ancestor9/ADSP-Crash-Course/blob/main/ADSP_%EA%B3%84%EC%82%B0%EB%AC%B8%EC%A0%9C.xlsx), Sigmoid 함수 |
+| 03 | 로지스틱회귀 모형(Logistic Regression Model) |  [logistic-regression](https://mlu-explain.github.io/logistic-regression/), , 로지스틱회귀 계수, [Odds Ratio](https://github.com/ancestor9/ADSP-Crash-Course/blob/main/odds_ratio_logit_sigmoid.ipynb), [Odds Ratio_excel](https://github.com/ancestor9/ADSP-Crash-Course/blob/main/ADSP_%EA%B3%84%EC%82%B0%EB%AC%B8%EC%A0%9C.xlsx), Sigmoid 함수 |
 | 04 | 의사결정나무 모형(Decision Tree Model) | [decision-tree](https://mlu-explain.github.io/decision-tree/),  Gini Index/Entropy/Information Gain, 과적합 방지를 위한 가지치기(Pruning)|
 | 05 | 앙상블 모델(Ensemble Model)| [random-forest](https://mlu-explain.github.io/random-forest/),  Bagging, Random Forest, Boosting: AdaBoost, GBM, XGBoost, Voting/Stacking |
 | 06 | 손실함수(Loss Function), 최적화(Optimization) | [교차검증](https://mlu-explain.github.io/cross-validation/), 하이퍼파라미터 튜닝 |
