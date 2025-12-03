@@ -26,7 +26,7 @@
 - [Master AI Concepts with Interactive Learning!](https://www.101ai.net/overview/basics)
 - [Image_Linear_Representation](https://www.youtube.com/watch?v=7Gtxd-ew4lk)
   ![](https://www.mlsysbook.ai/contents/core/dnn_architectures/dnn_architectures_files/mediabag/5aab87381f560ddc7f720233b9e89a654d299fa1.svg)
-- [Google's Machine Learning Crash Course](https://developers.google.com/machine-learning?hl=ko)
+- [Google's Machine Learning Crash Course_추천](https://developers.google.com/machine-learning?hl=ko)
 - [K-means_elbow](https://ml-visualized.com/chapter2/k_means.html)
 - [Introduction_to_Machine_learning](https://github.com/ancestor9/ADSP-Crash-Course/blob/main/Introduction_to_Machine_learning_.ipynb)
 - [Transformer](https://poloclub.github.io/transformer-explainer/)
