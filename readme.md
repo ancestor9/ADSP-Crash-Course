@@ -17,7 +17,7 @@
 | 09 | 차원축소 | [Dimension Reduction](https://dimensionality-reduction-293e465c2a3443e8941b016d.vercel.app/), [PCA](https://github.com/ancestor9/ADSP-Crash-Course/blob/main/PCA.ipynb)|  |
 | 10 | 군집 분석 (Clustering) | [K-평균 군집(K-Means)](https://github.com/ancestor9/ADSP-Crash-Course/blob/main/Introduction_to_Machine_learning_.ipynb)의 원리와 초기 중심 설정, 계층적 군집(Hierarchical Clustering) (Dendrogram 해석), 군집 평가 지표 (실루엣 계수 등)|  |
 | 11 | 연관 분석 (Association Analysis) | [연관 규칙 분석](https://github.com/ancestor9/ADSP-Crash-Course/blob/main/ADSP_%EA%B3%84%EC%82%B0%EB%AC%B8%EC%A0%9C.xlsx)- 지지도(Support), 신뢰도(Confidence), 향상도(Lift) - (시험 빈출 계산 문제)|  |
-| 12 | 딥러닝 모형(Deep Learning Model) -1| [인공 신경망(ANN)의 구조](https://playground.tensorflow.org/) ([퍼셉트론](https://www.101ai.net/nnet/perceptron), [다층 신경망](https://www.101ai.net/nnet/multi-layer)), 활성화 함수 (ReLU, Sigmoid, Softmax)의 역할| |
+| 12 | 딥러닝 모형(Deep Learning Model) -1|[퍼셉트론](https://www.101ai.net/nnet/perceptron), [다층 신경망](https://www.101ai.net/nnet/multi-layer),  [인공 신경망(ANN)의 구조](https://playground.tensorflow.org/), (활성화 함수 (ReLU, Sigmoid, Softmax)의 역할| |
 | 13 | 딥러닝 모형(Deep Learning Model) -2| [손실 함수(Loss Function)](https://www.101ai.net/deeplearn/loss): MSE와 Cross-Entropy, [최적화(Optimization)](https://www.101ai.net/deeplearn/optimizer): 경사하강법(Gradient Descent), [역전파(Backpropagation)](https://www.101ai.net/nnet/backprop), [SOM(Self-Organizing Map)](https://github.com/ancestor9/ADSP-Crash-Course/blob/main/SOM.ipynb)| |
 
 
